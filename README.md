@@ -11,4 +11,3 @@ here as the stage to find original flag we chave to solve the code by using reve
 
 * I hope I have given all the content required like code and steps and is visible to you as well.
   As this and using this platform is a little bit new for me.
-* Also Codespace link - [https://github.com/jainkshitiz1/Cyber-Security-Task/blob/53293b9f0703e2355ee936fa5875aca1d7d84985/Code%20For%20Flag#L7](https://orange-system-7vpvx5444pq42pgg9.github.dev/)
